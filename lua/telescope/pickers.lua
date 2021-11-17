@@ -583,7 +583,6 @@ function Picker:recalculate_layout()
     popup.move(results_win, popup_opts.results)
   end
 
-
   -- Temporarily disabled: Draw the screen ASAP. This makes things feel speedier.
   -- vim.cmd [[redraw]]
 
